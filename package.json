@@ -1,0 +1,21 @@
+{
+  "name": "",
+  "version": "0.1.0",
+  "dependencies": {
+    "brain": "^1.0.0",
+    "common-js": "^0.3.8",
+    "fs": "0.0.1-security"
+  },
+  "keywords": [
+    "Neural Networks",
+    "Machine Learning",
+    "JavaScript",
+    "Node",
+    "NodeJs",
+    "Iris DataSheet"
+  ],
+  "description": "neural network in JS",
+  "main": "sepal.js",
+  "author": "Stacey",
+  "license": "MIT"
+}
